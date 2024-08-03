@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: Bold;
+    src: url(./assets/fonts/Manrope-Bold.ttf);
+}
+@font-face {
+    font-family: Medium;
+    src: url(./assets/fonts/Manrope-Medium.ttf);
+}
+@font-face {
+    font-family: Regular;
+    src: url(./assets/fonts/Manrope-Regular.ttf);
+}
